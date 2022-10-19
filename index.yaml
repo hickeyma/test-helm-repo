@@ -1,4 +1,2 @@
-apiVersion: v2
+apiVersion: v1
 entries:
-  grafana:
-  - apiVersion: v2
