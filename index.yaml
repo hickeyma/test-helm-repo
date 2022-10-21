@@ -3,4 +3,5 @@ entries:
   grafana:
   - apiVersion: v2
     name: grafana
-  :
+  goo:
+  -
